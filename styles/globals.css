@@ -29,3 +29,8 @@
 .layout {
   height: 100vh;
 }
+
+.site-page-header {
+  border: 1px solid rgb(235, 237, 240);
+  padding: 0 0 0 5px !important;
+}
